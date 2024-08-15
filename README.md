@@ -1,6 +1,6 @@
 # Interview_test
-For Interview
-1.npm install 
-2.npm run test
+For Interview<br>
+1.npm install<br>
+2.npm run test<br>
 
 # dependencies
